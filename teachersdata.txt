@@ -1,0 +1,7 @@
+﻿ID,Name,Class,Section
+1,Aman Saxena,10th,Section A
+2,Vasu Sharma,12th,Section B
+3,Ayush Verma,9th,Section C
+4,Nikkhil Sharma,11th,Section D
+4,Palak Singh,11th,Section B
+6,Indu Sharma,8th,Section A
